@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-- 🔭 I’m currently working on [Quotes]()
+- 🔭 I’m currently working on [Quotes](https://play.google.com/store/apps/details?id=com.kushwahatechnologies.quotes)
 - 🌱 I’m currently learning Dart and Python.
 - 🤔 I’m looking for help with python for machine learning.
 - 💬 Ask me about Java SE and any tech related stuff.
