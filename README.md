@@ -38,13 +38,14 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-- 🔭 I’m currently working on [Quotes](https://play.google.com/store/apps/details?id=com.kushwahatechnologies.quotes)
-- 🌱 I’m currently learning Dart and Python.
-- 🤔 I’m looking for help with python for machine learning.
+<!-- - 🔭 I’m currently working on [Quotes](https://play.google.com/store/apps/details?id=com.kushwahatechnologies.quotes) -->
+- 🔭 I’m currently working 👩‍💻 on Git-Repo [programming-practices](https://github.com/SandeepKushwaha/programming-practices)
+- 🌱 I’m currently learning Kotlin, React and Dart.
+- 🤔 I’m looking for help with React for Web Development.
 - 💬 Ask me about Java SE and any tech related stuff.
 - 📫 How to reach me: [Twitter - @MrSandeepKush](https://twitter.com/MrSandeepKush/) ,  [Instagram - @MrSandeepKushwaha](https://www.instagram.com/MrSandeepKushwaha/)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend almost 8 hours for Java Development.
+- ⚡ Fun fact: I spend almost 4 hours for Java Development or Problem Solving.
 
 **Languages and Tools:**  
 
