@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 <br/>
 
 <!-- - 🔭 I’m currently working on [Quotes](https://play.google.com/store/apps/details?id=com.kushwahatechnologies.quotes) -->
-- 🔭 I’m currently working 👩‍💻 on Git-Repo [programming-practices](https://github.com/SandeepKushwaha/programming-practices)
+- 🔭 I’m currently working 👩‍💻 on Git-Repo(s) [programming-practices](https://github.com/SandeepKushwaha/programming-practices) and [CPP-Course-For-Absolute-Beginners](https://github.com/SandeepKushwaha/CPP-Course-For-Absolute-Beginners)
 - 🌱 I’m currently learning Kotlin, React and Dart.
 - 🤔 I’m looking for help with React for Web Development.
 - 💬 Ask me about Java SE and any tech related stuff.
